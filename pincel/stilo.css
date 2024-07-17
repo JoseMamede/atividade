@@ -1,0 +1,26 @@
+.cabesa{
+    text-align: center;
+    color: rgb(131, 19, 19);
+    text-shadow: 2px 2px;
+}
+
+.p1{
+    color: rgb(109, 192, 92);
+}
+
+.p2{
+    color: rgb(109, 192, 92);
+}
+
+.author{
+    text-decoration: underline;
+}
+
+body{
+    background-color: black;
+    color: rgb(149, 197, 240);
+}
+
+img{
+    
+}
